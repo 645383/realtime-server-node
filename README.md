@@ -1,1 +1,5 @@
-realtime node.js server for the realtime-rails gem
+gem install foreman
+
+sudo npm install
+
+foreman start
